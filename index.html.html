@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Rivoluzione del Quando — Lettore</title>
+    <link rel="stylesheet" href="book-style.css">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <button class="topbar-reset" id="topbarReset" aria-label="Resetta progressi" title="Resetta tutti i progressi">↺</button>
+</header>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<header class="topbar">
+    <button class="menu-toggle" id="menuToggle" aria-label="Apri indice">☰</button>
+    <div class="topbar-title">📖 La Rivoluzione del Quando</div>
+    <div class="topbar-progress">
+        <div class="topbar-progress-fill" id="globalProgress"></div>
+    </div>
+    <div class="topbar-percent" id="globalPercent">0%</div>
+</header>
+
+<!-- SIDEBAR (INDICE) -->
+
+<aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+        <div class="logo">
+            <img src="logo.png" alt="Logo" class="logo-image"> 
+        </div>
+        <h2>📚 Indice</h2>
+        <button class="sidebar-close" id="sidebarClose">✕</button>
+    </div>
+    <nav class="chapter-list" id="chapterList">
+        <!-- Generato via JS -->
+    </nav>
+    <div class="sidebar-footer">
+        <button class="btn-reset" id="resetProgress">↺ Resetta progressi</button>
+    </div>
+</aside>
+
+<!-- OVERLAY MOBILE -->
+<div class="overlay" id="overlay"></div>
+
+<!-- MAIN CONTENT -->
+<main class="content" id="content">
+    <article class="chapter" id="chapterArticle">
+        <!-- Generato via JS -->
+    </article>
+
+    <div class="chapter-nav">
+        <button class="nav-btn prev" id="prevBtn">← Capitolo precedente</button>
+        <button class="nav-btn mark-read" id="markReadBtn">✓ Segna come letto</button>
+        <button class="nav-btn next" id="nextBtn">Capitolo successivo →</button>
+    </div>
+</main>
+
+<script src="chapters.js"></script>
+<script src="book-scripts.js"></script>
+</body>
+</html>
