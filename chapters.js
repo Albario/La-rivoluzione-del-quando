@@ -1691,4 +1691,162 @@ const CHAPTERS = [
         </div>
     `
 },
+{
+    id: 9,
+    number: "EPILOGO",
+    title: "Un grazie, prima di chiudere",
+    subtitle: "Perché questo libro è solo l'inizio del tuo percorso",
+    content: `
+        <blockquote>"La fine di un libro non è la fine di una storia. È l'inizio di un capitolo nuovo — quello che scriverai tu, con le tue scelte, ogni giorno, davanti al tuo piatto."</blockquote>
+
+        <div class="callout">
+            <strong>🎯 In queste ultime pagine troverai:</strong>
+            <ul>
+                <li>Un <strong>grazie sincero</strong> per il tempo che mi hai dedicato</li>
+                <li>Un <strong>riepilogo dei principi fondamentali</strong> da portare con te</li>
+                <li>La <strong>roadmap dei prossimi 90 giorni</strong> per trasformare la lettura in risultati</li>
+                <li>Una <strong>promessa</strong> su come questo libro evolverà con te</li>
+                <li>Un <strong>invito</strong> a entrare nella community dei lettori</li>
+            </ul>
+        </div>
+
+        <h2>Sei arrivato fin qui. E questo dice molto di te.</h2>
+        <p>Se stai leggendo queste righe, significa che hai dedicato tempo a te stesso. Tempo per capire, per imparare, per metterti in discussione.</p>
+        <p>In un mondo che corre, che ti bombarda di soluzioni rapide e pillole magiche, tu hai scelto un approccio diverso: <strong>scientifico, onesto, sostenibile</strong>.</p>
+        <p>E questa scelta, di per sé, vale più di qualsiasi protocollo.</p>
+
+        <h2>A te, lettore</h2>
+        <p>Grazie per aver scelto questo libro tra centinaia di altri.</p>
+        <p>Grazie per avermi affidato la tua attenzione, il tuo tempo, la tua fiducia.</p>
+        <p>So che non è stato sempre facile. Ci sono stati giorni in cui la fame ti ha tentato. Momenti in cui hai dubitato che funzionasse. Cene sociali in cui ti sei chiesto se ne valeva la pena.</p>
+        <p>Eppure sei arrivato fin qui.</p>
+        <p>Questo non è merito mio. È merito tuo. Io ho solo scritto le parole. <strong>Tu le hai trasformate in cambiamenti reali.</strong></p>
+
+        <h2>A chi mi ha ispirato</h2>
+        <p>Questo libro non nasce dal nulla. Si appoggia sulle spalle di giganti:</p>
+
+        <table>
+            <thead>
+                <tr><th>Ricercatore</th><th>Contributo</th><th>Cosa ti ha dato</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Yoshinori Ohsumi</strong></td><td>Scoperta dei meccanismi dell'autofagia (Nobel 2016)</td><td>La comprensione che il tuo corpo si "ricicla" da solo</td></tr>
+                <tr><td><strong>Valter Longo</strong></td><td>Dieta Mima-Digiuno e longevità</td><td>La prova che il digiuno può ringiovanire a livello cellulare</td></tr>
+                <tr><td><strong>Jason Fung</strong></td><td>Insulino-resistenza e digiuno terapeutico</td><td>La chiave per capire il grasso viscerale e il Diabete Tipo 2</td></tr>
+                <tr><td><strong>Satchin Panda</strong></td><td>Ritmo circadiano e time-restricted feeding</td><td>La dimostrazione che <em>quando</em> mangi conta quanto <em>cosa</em></td></tr>
+                <tr><td><strong>Raphaël de Cabo & Mark Mattson</strong></td><td>Revisione completa degli studi sull'IF (NEJM 2019)</td><td>La base scientifica solida su cui poggia tutto il libro</td></tr>
+                <tr><td><strong>Centinole di altri ricercatori</strong></td><td>Studi su BDNF, chetoni, mitocondri, senescenza</td><td>I tasselli di un mosaico ancora in costruzione</td></tr>
+            </tbody>
+        </table>
+
+        <p>La scienza è un lavoro collettivo. Questo libro è solo un piccolo mattone in una cattedrale molto più grande.</p>
+
+        <h2>Il riepilogo: i 7 principi da portare con te</h2>
+        <p>Se dovessi sintetizzare tutto il libro in 7 principi fondamentali, sarebbero questi. Stampali. Appendili al frigorifero. Ricordali nei momenti di dubbio.</p>
+
+        <table>
+            <thead>
+                <tr><th>#</th><th>Principio</th><th>Cosa significa in pratica</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>1</strong></td><td>Il tuo corpo è un orologio, non una calcolatrice</td><td>Conta le ore, non le calorie</td></tr>
+                <tr><td><strong>2</strong></td><td>Non esiste un protocollo universale</td><td>Personalizza in base al tuo sesso, età, obiettivi</td></tr>
+                <tr><td><strong>3</strong></td><td>La qualità conta, eccome</td><td>La finestra di alimentazione non è un via libera al junk food</td></tr>
+                <tr><td><strong>4</strong></td><td>I primi 21 giorni sono i più duri</td><td>Resisti: dopo, tutto diventa più facile</td></tr>
+                <tr><td><strong>5</strong></td><td>La sostenibilità batte l'intensità</td><td>Meglio un 14:10 per 10 anni che un 20:4 per 2 settimane</td></tr>
+                <tr><td><strong>6</strong></td><td>Il digiuno non è una religione</td><td>Flessibilità intelligente > rigidità ossessiva</td></tr>
+                <tr><td><strong>7</strong></td><td>Ascolta il tuo corpo</td><td>È il miglior nutrizionista che tu abbia mai avuto</td></tr>
+            </tbody>
+        </table>
+
+        <div class="callout">
+            <strong>💡 La regola d'oro:</strong> Se un giorno ti senti in colpa per aver "rotto" il digiuno, ricorda questo: <em>non esiste fallimento, esiste solo aggiustamento</em>. Riprendi il giorno dopo. La perfezione non esiste. La costanza sì.
+        </div>
+
+        <h2>La tua roadmap: i prossimi 90 giorni</h2>
+        <p>Chiudere il libro non significa chiudere il percorso. Ecco cosa ti consiglio di fare nei prossimi 3 mesi per trasformare la lettura in risultati concreti.</p>
+
+        <table>
+            <thead>
+                <tr><th>Periodo</th><th>Obiettivo</th><th>Azioni concrete</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Giorni 1-7</strong></td><td>Costruire l'abitudine</td><td>Inizia con il 12:12. Niente spuntini dopo cena. Traccia le ore.</td></tr>
+                <tr><td><strong>Settimane 2-4</strong></td><td>Estendere la finestra</td><td>Passa a 14:10 o 16:8. Monitora energia, fame, sonno.</td></tr>
+                <tr><td><strong>Mese 2</strong></td><td>Consolidare e personalizzare</td><td>Sei donna? Prova il ciclico. Sei atleta? Prova il timing dei nutrienti. Fai le analisi del sangue.</td></tr>
+                <tr><td><strong>Mese 3</strong></td><td>Valutare e aggiustare</td><td>Confronta i dati con la baseline. Celebra i progressi. Modifica ciò che non funziona.</td></tr>
+                <tr><td><strong>Oltre</strong></td><td>Mantenere come stile di vita</td><td>Il digiuno diventa parte di chi sei, non di ciò che fai.</td></tr>
+            </tbody>
+        </table>
+
+        <div class="callout warning">
+            <strong>⚠️ Attenzione alla trappola del "tutto o niente":</strong> Molti lettori, finita l'euforia iniziale, mollano dopo 2-3 settimane perché "non hanno visto risultati abbastanza veloci". I risultati veri si vedono dopo 8-12 settimane. Dai tempo al tuo corpo. La biologia non ha fretta.
+        </div>
+
+        <h2>Una promessa</h2>
+        <p>Ti prometto una cosa:</p>
+        <p><strong>Questo libro si evolverà.</strong></p>
+        <p>La scienza avanza. Nuovi studi escono ogni mese. Quello che oggi è "promettente" domani sarà "dimostrato". Quello che oggi è "dimostrato" domani sarà "affinato".</p>
+        <p>Quando ci saranno aggiornamenti importanti, aggiornerò il libro. E tu li riceverai <strong>gratuitamente</strong>, perché hai già acquistato la versione attuale.</p>
+        <p>Perché la Rivoluzione del Quando non è un prodotto. È un percorso. E i percorsi si camminano insieme.</p>
+
+        <h2>Un invito</h2>
+        <p>Se questo libro ti ha aiutato, ti chiedo una cosa sola:</p>
+        <p><strong>Condividilo con qualcuno che ne ha bisogno.</strong></p>
+        <p>Non come imposizione. Come possibilità.</p>
+        <p>Forse tua sorella lotta con la PCOS. Forse tuo padre ha ricevuto una diagnosi di pre-diabete. Forse la tua migliore amica è esausta dalle diete yo-yo. Forse un tuo collega atleta cerca un modo per ottimizzare la performance senza perdere muscolo.</p>
+        <p>A volte una sola idea — come <em>"non conta cosa mangi, conta quando"</em> — può cambiare una vita.</p>
+        <p>E se il libro ti sta davvero aiutando, <strong>lascia una recensione</strong> dove lo hai acquistato. Non per me. Per la prossima persona che sta cercando una risposta e potrebbe trovarla qui.</p>
+
+        <h2>🥊 Mito vs Realtà — L'ultimo</h2>
+        <div class="myth-box">
+            <div class="myth">❌ MITO: "Finito il libro, ho finito il percorso."</div>
+            <div class="reality">✅ REALTÀ: Il libro è la mappa. Il territorio lo cammini tu, ogni giorno, con le tue scelte. La lettura è l'inizio, non la fine.</div>
+        </div>
+        <div class="myth-box">
+            <div class="myth">❌ MITO: "Se non ho ottenuto risultati eclatanti in 30 giorni, il digiuno non fa per me."</div>
+            <div class="reality">✅ REALTÀ: I risultati veri si costruiscono in 90+ giorni. La biologia non ha fretta. Dai tempo al tuo corpo di adattarsi.</div>
+        </div>
+        <div class="myth-box">
+            <div class="myth">❌ MITO: "Devo seguire il protocollo alla lettera per sempre."</div>
+            <div class="reality">✅ REALTÀ: Il protocollo è un punto di partenza, non una gabbia. Adattalo alle stagioni della tua vita. La flessibilità è la vera sostenibilità.</div>
+        </div>
+
+        <h2>L'ultima cosa</h2>
+        <p>Prima di chiudere questa pagina, fermati un momento.</p>
+        <p>Metti una mano sul petto.</p>
+        <p>Senti il battito.</p>
+        <p>Quel cuore batte da prima che tu nascessi. Batterà dopo che avrai chiuso questo libro. Batterà mentre dormi, mentre lavori, mentre ami.</p>
+        <p>Non chiede calorie. Non chiede conteggi.</p>
+        <p><strong>Chiede solo di essere ascoltato.</strong></p>
+        <p>Il digiuno intermittente, in fondo, è questo: imparare di nuovo ad ascoltare il proprio corpo.</p>
+        <p>Grazie per averlo fatto.</p>
+
+        <div class="callout">
+            <strong>📌 Takeaway finale:</strong> La Rivoluzione del Quando non è una rivoluzione esterna. È una rivoluzione interna. È smettere di mangiare per abitudine e iniziare a mangiare per scelta. È smettere di combattere con il corpo e iniziare a danzare con esso. È smettere di contare le calorie e iniziare a contare i momenti.
+            <br><br>
+            Hai iniziato questo libro con una domanda: <em>"Il digiuno intermittente fa per me?"</em>
+            <br><br>
+            La risposta non è sì o no. La risposta è: <strong>prova</strong>. Con intelligenza. Con flessibilità. Con ascolto.
+            <br><br>
+            Non esiste un protocollo universale. Esiste il <em>tuo</em> protocollo.
+            <br><br>
+            Benvenuto nella tua rivoluzione.
+        </div>
+
+        <div class="references">
+            <h3>📚 Riferimenti bibliografici generali</h3>
+            <p style="margin-bottom: 15px; font-style: italic;">Ogni capitolo contiene i propri riferimenti specifici. Qui trovi le opere che hanno ispirato l'intera struttura del libro.</p>
+            <ol>
+                <li>de Cabo R, Mattson MP. <em>Effects of Intermittent Fasting on Health, Aging, and Disease.</em> N Engl J Med. 2019;381(26):2541-2551.</li>
+                <li>Longo VD et al. <em>Fasting: Molecular Mechanisms and Clinical Applications.</em> Cell Metab. 2014;19(2):181-192.</li>
+                <li>Ohsumi Y. <em>Mechanisms of autophagy.</em> Nobel Lecture, December 7, 2016.</li>
+                <li>Fung J, Moore J. <em>The Obesity Code: Unlocking the Secrets of Weight Loss.</em> Greystone Books, 2016.</li>
+                <li>Panda S. <em>The Circadian Code: Lose Weight, Supercharge Your Energy, and Transform Your Health from Morning to Midnight.</em> Rodale Books, 2018.</li>
+                <li>Mattson MP et al. <em>Intermittent metabolic switching, neuroplasticity and brain health.</em> Nat Rev Neurosci. 2018;19(2):63-80.</li>
+                <li>Antony AC. <em>The Essential Guide to Fasting.</em> HarperOne, 2020.</li>
+            </ol>
+        </div>
+    `
+},
 ];
